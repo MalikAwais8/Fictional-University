@@ -1,0 +1,37 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Our Test Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 07:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.9; wp-7.1.3; php-8.2.29\n"
+"X-Domain: wcpdomain"
+
+#. Description of the plugin
+msgid "A truly amazing plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "Awais"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://fictional-university.local/"
+msgstr ""
+
+#. Name of the plugin
+msgid "Our Test Plugin"
+msgstr ""
+
+#: our-first-unique-plugin.php:67
+msgid "Word Count"
+msgstr ""
